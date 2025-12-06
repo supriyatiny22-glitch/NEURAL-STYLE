@@ -24,4 +24,6 @@ Submitting the project felt like a fusion of creativity, discipline, and self-ex
 
 *output*
 
+<img width="1651" height="887" alt="Image" src="https://github.com/user-attachments/assets/e2ee7898-41ea-41a9-9fd3-50b1f528c596" />
+
 <img width="1740" height="880" alt="Image" src="https://github.com/user-attachments/assets/2028f16e-40a5-42fe-8170-6b1f456fd4c8" />
